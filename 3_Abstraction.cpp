@@ -6,9 +6,7 @@
 // system and exposing only the essential features or functionalities to the user. 
 
 // Key features: 
-// 1) Hides Implementation Details
-// 2) Interfaces: Defined methods must be implemented by derived classes
-// 3) Promoting reusability: Reuse the functions in different parts 
+// 1) Hides Implementation Details 2) Promoting reusability, 3) Used by derived classes
 
 // Abstract class: A class that cannot be instantiated on its own
 // They can contain abstract methods, which are declared but have no implementation.
