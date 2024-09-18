@@ -1,5 +1,5 @@
 //  main.cpp
-//  Created by Ali Behfarnia on 8/16/24.
+//  Created by Ali Behfarnia on 09/16/24.
 
 // [4] OOP: Inheritance
 // It allows a new class to derive methods and attributes 
@@ -31,9 +31,9 @@ public:
 //    string Company;
 //    int Age;
     
-    Employee(string nm, string com, int agee) {
-        Name = nm;
-        Company = com;
+    Employee(string name, string company, int agee) {
+        Name = name;
+        Company = company;
         Age = agee;
     }
         
