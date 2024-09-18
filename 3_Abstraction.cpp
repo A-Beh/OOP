@@ -2,8 +2,6 @@
 //  Created by Ali Behfarnia on 09/17/24.
 
 // [3] OOP: Abstraction
-// abstraction is the concept of hiding the internal details and complexities of a  
-// system and exposing only the essential features or functionalities to the user. 
 
 // Key features: 
 // 1) Hides Implementation Details 2) Promoting reusability, 3) Used by derived classes
