@@ -8,7 +8,7 @@
 // Key features: 
 // 1) Hides Implementation Details
 // 2) Interfaces: Defined methods must be implemented by derived classes
-// 3)
+// 3) Promoting reusability: Reuse the functions in different parts 
 
 #include <iostream>
 #include <cmath>
