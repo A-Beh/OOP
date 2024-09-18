@@ -10,6 +10,13 @@
 // 2) Interfaces: Defined methods must be implemented by derived classes
 // 3) Promoting reusability: Reuse the functions in different parts 
 
+// Abstract class: A class that cannot be instantiated on its own
+// They can contain abstract methods, which are declared but have no implementation.
+// Abstract classes benefits:
+// 1. Prevents instantiation of the class itself
+// 2. Requires children to use inherited abstract methods
+
+
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
